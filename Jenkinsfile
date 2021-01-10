@@ -52,7 +52,4 @@ mvn -clean'''
     }
 
   }
-  environment {
-    Charlie = 'https://ibid-frontend-charlie.ibid.astra.co.id/'
-  }
 }
